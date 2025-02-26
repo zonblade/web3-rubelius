@@ -29,6 +29,7 @@ export function CE_Sect_Logo() {
     const containerRef = useRef(null);
     const iconRef = useRef(null);
     const [iconWidth, setIconWidth] = useState(0);
+    const setContainerWidth = useState(0)[1];
 
     // Adjust this speed (px per second) as desired
     const speed = 50;
