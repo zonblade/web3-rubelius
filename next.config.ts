@@ -12,7 +12,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'rubelius.retas.dev',
+        hostname: 'rubelius.retas.org',
         port: '', // Or your port number
         pathname: '/**',
       },
